@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+DT/sales_train_evaluation.csv
+DT/sales_train_validation.csv
+
+DT/store-sales_ECUADOR/train.csv
+DT/online_retail_II.csv
+
+DT/sell_prices.csv

@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+scikit-learn
+xgboost
+lightgbm
+mlforecast
+openpyxl
+fpdf2
+PyPDF2
