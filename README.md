@@ -26,4 +26,4 @@ Scripts y entregables ubicados en la carpeta RUN.
 ## Notas
 - Q4 puede tardar por el volumen de M5; filtra a FOODS_3 y CA_1-4 como pide el enunciado.
 - Q5 lee ~1M filas; requiere memoria moderada.
-- Para la entrega PDF, compila las respuestas (texto + outputs principales) desde los scripts.
+
